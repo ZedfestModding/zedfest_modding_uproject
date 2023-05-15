@@ -1,0 +1,16 @@
+/NOLOGO
+/errorReport:prompt
+/MACHINE:x64
+/SUBSYSTEM:WINDOWS
+/DEF
+/NAME:"UE4Editor-KevinSpel.dll"
+/IGNORE:4221
+/NODEFAULTLIB
+"C:\Users\Mythical\Documents\Unreal Projects\KevinSpel\Intermediate\Build\Win64\KevinSpelEditor\Development\Engine\SharedPCH.Engine.h.obj"
+"C:\Users\Mythical\Documents\Unreal Projects\KevinSpel\Intermediate\Build\Win64\UE4Editor\Development\KevinSpel\KevinSpel.cpp.obj"
+"C:\Users\Mythical\Documents\Unreal Projects\KevinSpel\Intermediate\Build\Win64\UE4Editor\Development\KevinSpel\KevinSpelGameModeBase.cpp.obj"
+"C:\Users\Mythical\Documents\Unreal Projects\KevinSpel\Intermediate\Build\Win64\UE4Editor\Development\KevinSpel\KevinSpel.init.gen.cpp.obj"
+"C:\Users\Mythical\Documents\Unreal Projects\KevinSpel\Intermediate\Build\Win64\UE4Editor\Development\KevinSpel\KevinSpelGameModeBase.gen.cpp.obj"
+"C:\Users\Mythical\Documents\Unreal Projects\KevinSpel\Intermediate\Build\Win64\UE4Editor\Development\KevinSpel\Default.rc2.res"
+/OUT:"C:\Users\Mythical\Documents\Unreal Projects\KevinSpel\Intermediate\Build\Win64\UE4Editor\Development\KevinSpel\UE4Editor-KevinSpel.lib"
+/INCLUDE:IMPLEMENT_MODULE_KevinSpel

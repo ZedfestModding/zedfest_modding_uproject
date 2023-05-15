@@ -1,0 +1,45 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="15.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <None Include="..\..\KevinSpel.uproject" />
+    <Filter Include="Source">
+      <UniqueIdentifier>{FE119679-5D77-4EBE-99AA-13AF038BC3DE}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Source\KevinSpel.Target.cs">
+      <Filter>Source</Filter>
+    </None>
+    <None Include="..\..\Source\KevinSpelEditor.Target.cs">
+      <Filter>Source</Filter>
+    </None>
+    <Filter Include="Config">
+      <UniqueIdentifier>{DCDCB7DC-5934-4F36-AE96-28408810EB5F}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Config\DefaultEditor.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultEngine.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultGame.ini">
+      <Filter>Config</Filter>
+    </None>
+    <Filter Include="Source\KevinSpel">
+      <UniqueIdentifier>{1B066A0D-36A5-4496-B034-C10BBF57754C}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Source\KevinSpel\KevinSpel.Build.cs">
+      <Filter>Source\KevinSpel</Filter>
+    </None>
+    <ClCompile Include="..\..\Source\KevinSpel\KevinSpel.cpp">
+      <Filter>Source\KevinSpel</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\KevinSpel\KevinSpel.h">
+      <Filter>Source\KevinSpel</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\KevinSpel\KevinSpelGameModeBase.cpp">
+      <Filter>Source\KevinSpel</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\KevinSpel\KevinSpelGameModeBase.h">
+      <Filter>Source\KevinSpel</Filter>
+    </ClInclude>
+  </ItemGroup>
+</Project>

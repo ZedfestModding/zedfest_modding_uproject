@@ -1,0 +1,66 @@
+﻿  Creating makefile for KevinSpelEditor (ini files are newer than makefile)
+C:\Users\Mythical\Documents\Unreal Projects\KevinSpel\Plugins\VictoryPlugin422\Source\VictoryBPLibrary\VictoryBPLibrary.Build.cs : warning : Referenced directory 'C:\UnrealEngineInstalls\UE_4.22\Engine\Source\VictoryBPLibrary\Public' does not exist.
+  Parsing headers for KevinSpelEditor
+    Running UnrealHeaderTool "C:\Users\Mythical\Documents\Unreal Projects\KevinSpel\KevinSpel.uproject" "C:\Users\Mythical\Documents\Unreal Projects\KevinSpel\Intermediate\Build\Win64\KevinSpelEditor\Development\KevinSpelEditor.uhtmanifest" -LogCmds="loginit warning, logexit warning, logdatabase error" -Unattended -WarningsAsErrors -installed
+  Reflection code generated for KevinSpelEditor in 9.1274436 seconds
+  Using Visual Studio 2017 14.16.27023 toolchain (C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\VC\Tools\MSVC\14.16.27023) and Windows 10.0.22621.0 SDK (C:\Program Files (x86)\Windows Kits\10).
+  Building 33 actions with 16 processes...
+    [1/33] Default.rc2
+    [2/33] Default.rc2
+    [3/33] Default.rc2
+    [4/33] Default.rc2
+    [5/33] Default.rc2
+    [6/33] Default.rc2
+    [7/33] Module.VictoryBPLibrary.gen.2_of_2.cpp
+    [8/33] Module.AdvancedSteamSessions.gen.cpp
+    [9/33] Module.AdvancedSteamSessions.cpp
+    [10/33] UE4Editor-AdvancedSteamSessions.lib
+       Creating library C:\Users\Mythical\Documents\Unreal Projects\KevinSpel\Plugins\AdvancedSteamSessions\Intermediate\Build\Win64\UE4Editor\Development\AdvancedSteamSessions\UE4Editor-AdvancedSteamSessions.lib and object C:\Users\Mythical\Documents\Unreal Projects\KevinSpel\Plugins\AdvancedSteamSessions\Intermediate\Build\Win64\UE4Editor\Development\AdvancedSteamSessions\UE4Editor-AdvancedSteamSessions.exp
+    [11/33] Module.AdvancedSessions.gen.cpp
+    [12/33] Module.AdvancedSessions.cpp
+    [13/33] UE4Editor-AdvancedSessions.lib
+       Creating library C:\Users\Mythical\Documents\Unreal Projects\KevinSpel\Plugins\AdvancedSessions\Intermediate\Build\Win64\UE4Editor\Development\AdvancedSessions\UE4Editor-AdvancedSessions.lib and object C:\Users\Mythical\Documents\Unreal Projects\KevinSpel\Plugins\AdvancedSessions\Intermediate\Build\Win64\UE4Editor\Development\AdvancedSessions\UE4Editor-AdvancedSessions.exp
+    [14/33] UE4Editor-AdvancedSteamSessions.dll
+       Creating library C:\Users\Mythical\Documents\Unreal Projects\KevinSpel\Plugins\AdvancedSteamSessions\Intermediate\Build\Win64\UE4Editor\Development\AdvancedSteamSessions\UE4Editor-AdvancedSteamSessions.suppressed.lib and object C:\Users\Mythical\Documents\Unreal Projects\KevinSpel\Plugins\AdvancedSteamSessions\Intermediate\Build\Win64\UE4Editor\Development\AdvancedSteamSessions\UE4Editor-AdvancedSteamSessions.suppressed.exp
+    [15/33] UE4Editor-AdvancedSessions.dll
+       Creating library C:\Users\Mythical\Documents\Unreal Projects\KevinSpel\Plugins\AdvancedSessions\Intermediate\Build\Win64\UE4Editor\Development\AdvancedSessions\UE4Editor-AdvancedSessions.suppressed.lib and object C:\Users\Mythical\Documents\Unreal Projects\KevinSpel\Plugins\AdvancedSessions\Intermediate\Build\Win64\UE4Editor\Development\AdvancedSessions\UE4Editor-AdvancedSessions.suppressed.exp
+    [16/33] SharedPCH.UnrealEd.cpp
+    [17/33] Module.ElectronicNodes.gen.cpp
+    [18/33] Module.DarkerNodes.gen.cpp
+    [19/33] Module.VictoryBPLibrary.gen.1_of_2.cpp
+    [20/33] Module.AutoSizeComments.gen.cpp
+    [21/33] Module.ElectronicNodes.cpp
+C:\Users\Mythical\Documents\Unreal Projects\KevinSpel\Plugins\ElectronicNodes\Source\ElectronicNodes\Private\ENConnectionDrawingPolicy.cpp(54): warning C4458: declaration of 'LayerId' hides class member
+    c:\users\mythical\documents\unreal projects\kevinspel\plugins\electronicnodes\source\electronicnodes\private\ENConnectionDrawingPolicy.h(79): note: see declaration of 'FENConnectionDrawingPolicy::LayerId'
+C:\Users\Mythical\Documents\Unreal Projects\KevinSpel\Plugins\ElectronicNodes\Source\ElectronicNodes\Private\ENConnectionDrawingPolicy.cpp(54): warning C4458: declaration of 'Params' hides class member
+    c:\users\mythical\documents\unreal projects\kevinspel\plugins\electronicnodes\source\electronicnodes\private\ENConnectionDrawingPolicy.h(80): note: see declaration of 'FENConnectionDrawingPolicy::Params'
+C:\Users\Mythical\Documents\Unreal Projects\KevinSpel\Plugins\ElectronicNodes\Source\ElectronicNodes\Private\ENConnectionDrawingPolicy.cpp(155): warning C4458: declaration of 'LayerId' hides class member
+    c:\users\mythical\documents\unreal projects\kevinspel\plugins\electronicnodes\source\electronicnodes\private\ENConnectionDrawingPolicy.h(79): note: see declaration of 'FENConnectionDrawingPolicy::LayerId'
+C:\Users\Mythical\Documents\Unreal Projects\KevinSpel\Plugins\ElectronicNodes\Source\ElectronicNodes\Private\ENConnectionDrawingPolicy.cpp(155): warning C4458: declaration of 'Params' hides class member
+    c:\users\mythical\documents\unreal projects\kevinspel\plugins\electronicnodes\source\electronicnodes\private\ENConnectionDrawingPolicy.h(80): note: see declaration of 'FENConnectionDrawingPolicy::Params'
+C:\Users\Mythical\Documents\Unreal Projects\KevinSpel\Plugins\ElectronicNodes\Source\ElectronicNodes\Private\ENConnectionDrawingPolicy.cpp(269): warning C4458: declaration of 'Params' hides class member
+    c:\users\mythical\documents\unreal projects\kevinspel\plugins\electronicnodes\source\electronicnodes\private\ENConnectionDrawingPolicy.h(80): note: see declaration of 'FENConnectionDrawingPolicy::Params'
+    [22/33] UE4Editor-ElectronicNodes.lib
+       Creating library C:\Users\Mythical\Documents\Unreal Projects\KevinSpel\Plugins\ElectronicNodes\Intermediate\Build\Win64\UE4Editor\Development\ElectronicNodes\UE4Editor-ElectronicNodes.lib and object C:\Users\Mythical\Documents\Unreal Projects\KevinSpel\Plugins\ElectronicNodes\Intermediate\Build\Win64\UE4Editor\Development\ElectronicNodes\UE4Editor-ElectronicNodes.exp
+    [23/33] UE4Editor-ElectronicNodes.dll
+       Creating library C:\Users\Mythical\Documents\Unreal Projects\KevinSpel\Plugins\ElectronicNodes\Intermediate\Build\Win64\UE4Editor\Development\ElectronicNodes\UE4Editor-ElectronicNodes.suppressed.lib and object C:\Users\Mythical\Documents\Unreal Projects\KevinSpel\Plugins\ElectronicNodes\Intermediate\Build\Win64\UE4Editor\Development\ElectronicNodes\UE4Editor-ElectronicNodes.suppressed.exp
+    [24/33] Module.VictoryBPLibrary.cpp
+C:\Users\Mythical\Documents\Unreal Projects\KevinSpel\Plugins\VictoryPlugin422\Source\VictoryBPLibrary\Private\VictoryBPFunctionLibrary.cpp(4098): warning C4996: 'operator new': Placement new on TIndirectArray has been deprecated - users should call Add() passing a pointer to an object created with new. Please update your code to the new API before upgrading to the next release, otherwise your project will no longer compile.
+    C:\UnrealEngineInstalls\UE_4.22\Engine\Source\Runtime\Core\Public\Containers/IndirectArray.h(455): note: see declaration of 'operator new'
+    [25/33] UE4Editor-VictoryBPLibrary.lib
+       Creating library C:\Users\Mythical\Documents\Unreal Projects\KevinSpel\Plugins\VictoryPlugin422\Intermediate\Build\Win64\UE4Editor\Development\VictoryBPLibrary\UE4Editor-VictoryBPLibrary.lib and object C:\Users\Mythical\Documents\Unreal Projects\KevinSpel\Plugins\VictoryPlugin422\Intermediate\Build\Win64\UE4Editor\Development\VictoryBPLibrary\UE4Editor-VictoryBPLibrary.exp
+    [26/33] Module.AutoSizeComments.cpp
+    [27/33] UE4Editor-AutoSizeComments.lib
+       Creating library C:\Users\Mythical\Documents\Unreal Projects\KevinSpel\Plugins\AutoSizeComments\Intermediate\Build\Win64\UE4Editor\Development\AutoSizeComments\UE4Editor-AutoSizeComments.lib and object C:\Users\Mythical\Documents\Unreal Projects\KevinSpel\Plugins\AutoSizeComments\Intermediate\Build\Win64\UE4Editor\Development\AutoSizeComments\UE4Editor-AutoSizeComments.exp
+    [28/33] UE4Editor-AutoSizeComments.dll
+       Creating library C:\Users\Mythical\Documents\Unreal Projects\KevinSpel\Plugins\AutoSizeComments\Intermediate\Build\Win64\UE4Editor\Development\AutoSizeComments\UE4Editor-AutoSizeComments.suppressed.lib and object C:\Users\Mythical\Documents\Unreal Projects\KevinSpel\Plugins\AutoSizeComments\Intermediate\Build\Win64\UE4Editor\Development\AutoSizeComments\UE4Editor-AutoSizeComments.suppressed.exp
+    [29/33] Module.DarkerNodes.cpp
+    [30/33] UE4Editor-DarkerNodes.lib
+       Creating library C:\Users\Mythical\Documents\Unreal Projects\KevinSpel\Plugins\DarkerNodes\Intermediate\Build\Win64\UE4Editor\Development\DarkerNodes\UE4Editor-DarkerNodes.lib and object C:\Users\Mythical\Documents\Unreal Projects\KevinSpel\Plugins\DarkerNodes\Intermediate\Build\Win64\UE4Editor\Development\DarkerNodes\UE4Editor-DarkerNodes.exp
+    [31/33] UE4Editor-VictoryBPLibrary.dll
+       Creating library C:\Users\Mythical\Documents\Unreal Projects\KevinSpel\Plugins\VictoryPlugin422\Intermediate\Build\Win64\UE4Editor\Development\VictoryBPLibrary\UE4Editor-VictoryBPLibrary.suppressed.lib and object C:\Users\Mythical\Documents\Unreal Projects\KevinSpel\Plugins\VictoryPlugin422\Intermediate\Build\Win64\UE4Editor\Development\VictoryBPLibrary\UE4Editor-VictoryBPLibrary.suppressed.exp
+    [32/33] UE4Editor-DarkerNodes.dll
+       Creating library C:\Users\Mythical\Documents\Unreal Projects\KevinSpel\Plugins\DarkerNodes\Intermediate\Build\Win64\UE4Editor\Development\DarkerNodes\UE4Editor-DarkerNodes.suppressed.lib and object C:\Users\Mythical\Documents\Unreal Projects\KevinSpel\Plugins\DarkerNodes\Intermediate\Build\Win64\UE4Editor\Development\DarkerNodes\UE4Editor-DarkerNodes.suppressed.exp
+    [33/33] KevinSpelEditor.target
+  Total time in Parallel executor: 37.03 seconds
+  Total execution time: 50.98 seconds

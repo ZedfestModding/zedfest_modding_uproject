@@ -1,0 +1,9 @@
+C:\Users\Mythical\Documents\GitHub\zedfest_modding_uproject\KevinSpel\Source\KevinSpel\KevinSpel.Build.cs
+C:\Users\Mythical\Documents\GitHub\zedfest_modding_uproject\KevinSpel\Plugins\AdvancedSessions\Source\AdvancedSessions\AdvancedSessions.Build.cs
+C:\Users\Mythical\Documents\GitHub\zedfest_modding_uproject\KevinSpel\Plugins\AdvancedSteamSessions\Source\AdvancedSteamSessions\AdvancedSteamSessions.Build.cs
+C:\Users\Mythical\Documents\GitHub\zedfest_modding_uproject\KevinSpel\Plugins\AutoSizeComments\Source\AutoSizeComments\AutoSizeComments.Build.cs
+C:\Users\Mythical\Documents\GitHub\zedfest_modding_uproject\KevinSpel\Plugins\DarkerNodes\Source\DarkerNodes\DarkerNodes.Build.cs
+C:\Users\Mythical\Documents\GitHub\zedfest_modding_uproject\KevinSpel\Plugins\ElectronicNodes\Source\ElectronicNodes\ElectronicNodes.Build.cs
+C:\Users\Mythical\Documents\GitHub\zedfest_modding_uproject\KevinSpel\Plugins\VictoryPlugin422\Source\VictoryBPLibrary\VictoryBPLibrary.Build.cs
+C:\Users\Mythical\Documents\GitHub\zedfest_modding_uproject\KevinSpel\Source\KevinSpel.Target.cs
+C:\Users\Mythical\Documents\GitHub\zedfest_modding_uproject\KevinSpel\Source\KevinSpelEditor.Target.cs
