@@ -60,6 +60,33 @@
 			}
 		},
 		{
+			"File": "../../../Engine/Plugins/Experimental/Gauntlet/Gauntlet.uplugin",
+			"Descriptor": 
+			{
+				"FileVersion": 3,
+				"Version": 1,
+				"VersionName": "0.1",
+				"FriendlyName": "Gauntlet",
+				"Description": "Provides a helper class for creating and managing tests in your game",
+				"Category": "Automation",
+				"CreatedBy": "Epic Games",
+				"CreatedByURL": "",
+				"DocsURL": "",
+				"MarketplaceURL": "",
+				"SupportURL": "",
+				"EnabledByDefault": false,
+				"CanContainContent": false,
+				"IsBetaVersion": true,
+				"Modules": [
+					{
+						"Name": "Gauntlet",
+						"Type": "Developer",
+						"LoadingPhase": "PreDefault"
+					}
+				]
+			}
+		},
+		{
 			"File": "../../../KevinSpel/Plugins/AutoSizeComments/AutoSizeComments.uplugin",
 			"Descriptor": 
 			{

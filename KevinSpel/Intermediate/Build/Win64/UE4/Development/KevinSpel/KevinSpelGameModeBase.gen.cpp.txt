@@ -1,9 +1,9 @@
-C:\Users\Mythical\Documents\GitHub\zedfest_modding_uproject_mythical\KevinSpel\Intermediate\Build\Win64\UE4\Development\KevinSpel\Definitions.KevinSpel.h
+C:\Users\Mythical\Documents\GitHub\zedfest_modding_uproject\KevinSpel\Intermediate\Build\Win64\UE4\Development\KevinSpel\Definitions.KevinSpel.h
 C:\UnrealEngineInstalls\UE_4.22\Engine\Source\Runtime\CoreUObject\Public\UObject/GeneratedCppIncludes.h
 C:\UnrealEngineInstalls\UE_4.22\Engine\Source\Runtime\CoreUObject\Public\UObject/MetaData.h
-C:\Users\Mythical\Documents\GitHub\zedfest_modding_uproject_mythical\KevinSpel\Source\KevinSpel/KevinSpelGameModeBase.h
+C:\Users\Mythical\Documents\GitHub\zedfest_modding_uproject\KevinSpel\Source\KevinSpel/KevinSpelGameModeBase.h
 C:\UnrealEngineInstalls\UE_4.22\Engine\Source\Runtime\Engine\Classes\GameFramework/GameModeBase.h
 C:\UnrealEngineInstalls\UE_4.22\Engine\Source\Runtime\Engine\Classes\Engine/ServerStatReplicator.h
 C:\UnrealEngineInstalls\UE_4.22\Engine\Intermediate\Build\Win64\UE4\Inc\Engine\ServerStatReplicator.generated.h
 C:\UnrealEngineInstalls\UE_4.22\Engine\Intermediate\Build\Win64\UE4\Inc\Engine\GameModeBase.generated.h
-c:\users\mythical\documents\github\zedfest_modding_uproject_mythical\kevinspel\intermediate\build\win64\ue4\inc\kevinspel\KevinSpelGameModeBase.generated.h
+c:\users\mythical\documents\github\zedfest_modding_uproject\kevinspel\intermediate\build\win64\ue4\inc\kevinspel\KevinSpelGameModeBase.generated.h

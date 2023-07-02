@@ -1,8 +1,8 @@
-C:\Users\Mythical\Documents\GitHub\zedfest_modding_uproject_mythical\KevinSpel\Plugins\VictoryPlugin422\Intermediate\Build\Win64\UE4Editor\Development\VictoryBPLibrary\Definitions.VictoryBPLibrary.h
-C:\Users\Mythical\Documents\GitHub\zedfest_modding_uproject_mythical\KevinSpel\Plugins\VictoryPlugin422\Source\VictoryBPLibrary\Private\TKMathFunctionLibrary.cpp
-c:\users\mythical\documents\github\zedfest_modding_uproject_mythical\kevinspel\plugins\victoryplugin422\source\victorybplibrary\private\VictoryBPLibraryPrivatePCH.h
-C:\Users\Mythical\Documents\GitHub\zedfest_modding_uproject_mythical\KevinSpel\Plugins\VictoryPlugin422\Source\VictoryBPLibrary\Public\VictoryBPLibrary.h
-C:\Users\Mythical\Documents\GitHub\zedfest_modding_uproject_mythical\KevinSpel\Plugins\VictoryPlugin422\Source\VictoryBPLibrary\Public\TKMathFunctionLibrary.h
+C:\Users\Mythical\Documents\Unreal Projects\KevinSpel\Plugins\VictoryPlugin422\Intermediate\Build\Win64\UE4Editor\Development\VictoryBPLibrary\Definitions.VictoryBPLibrary.h
+C:\Users\Mythical\Documents\Unreal Projects\KevinSpel\Plugins\VictoryPlugin422\Source\VictoryBPLibrary\Private\TKMathFunctionLibrary.cpp
+c:\users\mythical\documents\unreal projects\kevinspel\plugins\victoryplugin422\source\victorybplibrary\private\VictoryBPLibraryPrivatePCH.h
+C:\Users\Mythical\Documents\Unreal Projects\KevinSpel\Plugins\VictoryPlugin422\Source\VictoryBPLibrary\Public\VictoryBPLibrary.h
+C:\Users\Mythical\Documents\Unreal Projects\KevinSpel\Plugins\VictoryPlugin422\Source\VictoryBPLibrary\Public\TKMathFunctionLibrary.h
 C:\UnrealEngineInstalls\UE_4.22\Engine\Source\Runtime/UMG/Public/UMG.h
 C:\UnrealEngineInstalls\UE_4.22\Engine\Source\Runtime\Core\Public\Misc/MonolithicHeaderBoilerplate.h
 C:\UnrealEngineInstalls\UE_4.22\Engine\Source\Runtime\Core\Public\Core.h
@@ -964,12 +964,12 @@ c:\unrealengineinstalls\ue_4.22\engine\source\runtime\umg\public\Animation/Movie
 C:\UnrealEngineInstalls\UE_4.22\Engine\Intermediate\Build\Win64\UE4Editor\Inc\UMG\MovieSceneMarginTrack.generated.h
 c:\unrealengineinstalls\ue_4.22\engine\source\runtime\umg\public\Animation/UMGSequencePlayer.h
 C:\UnrealEngineInstalls\UE_4.22\Engine\Intermediate\Build\Win64\UE4Editor\Inc\UMG\UMGSequencePlayer.generated.h
-C:\Users\Mythical\Documents\GitHub\zedfest_modding_uproject_mythical\KevinSpel\Plugins\VictoryPlugin422\Intermediate\Build\Win64\UE4Editor\Inc\VictoryBPLibrary\TKMathFunctionLibrary.generated.h
-C:\Users\Mythical\Documents\GitHub\zedfest_modding_uproject_mythical\KevinSpel\Plugins\VictoryPlugin422\Source\VictoryBPLibrary\Private\VictoryBPFunctionLibrary.cpp
-c:\users\mythical\documents\github\zedfest_modding_uproject_mythical\kevinspel\plugins\victoryplugin422\source\victorybplibrary\private\VictoryBPLibraryPrivatePCH.h
-C:\Users\Mythical\Documents\GitHub\zedfest_modding_uproject_mythical\KevinSpel\Plugins\VictoryPlugin422\Source\VictoryBPLibrary\Public\VictoryBPFunctionLibrary.h
-c:\users\mythical\documents\github\zedfest_modding_uproject_mythical\kevinspel\plugins\victoryplugin422\source\victorybplibrary\public\VictoryISM.h
-C:\Users\Mythical\Documents\GitHub\zedfest_modding_uproject_mythical\KevinSpel\Plugins\VictoryPlugin422\Intermediate\Build\Win64\UE4Editor\Inc\VictoryBPLibrary\VictoryISM.generated.h
+C:\Users\Mythical\Documents\Unreal Projects\KevinSpel\Plugins\VictoryPlugin422\Intermediate\Build\Win64\UE4Editor\Inc\VictoryBPLibrary\TKMathFunctionLibrary.generated.h
+C:\Users\Mythical\Documents\Unreal Projects\KevinSpel\Plugins\VictoryPlugin422\Source\VictoryBPLibrary\Private\VictoryBPFunctionLibrary.cpp
+c:\users\mythical\documents\unreal projects\kevinspel\plugins\victoryplugin422\source\victorybplibrary\private\VictoryBPLibraryPrivatePCH.h
+C:\Users\Mythical\Documents\Unreal Projects\KevinSpel\Plugins\VictoryPlugin422\Source\VictoryBPLibrary\Public\VictoryBPFunctionLibrary.h
+c:\users\mythical\documents\unreal projects\kevinspel\plugins\victoryplugin422\source\victorybplibrary\public\VictoryISM.h
+C:\Users\Mythical\Documents\Unreal Projects\KevinSpel\Plugins\VictoryPlugin422\Intermediate\Build\Win64\UE4Editor\Inc\VictoryBPLibrary\VictoryISM.generated.h
 C:\UnrealEngineInstalls\UE_4.22\Engine\Source\Runtime/UMG/Public/UMGStyle.h
 C:\UnrealEngineInstalls\UE_4.22\Engine\Source\Runtime\AIModule\Classes\AIController.h
 C:\UnrealEngineInstalls\UE_4.22\Engine\Source\Runtime\NavigationSystem\Public\NavFilters/NavigationQueryFilter.h
@@ -1021,7 +1021,7 @@ C:\UnrealEngineInstalls\UE_4.22\Engine\Source\Runtime\Engine\Public\ActiveSound.
 C:\UnrealEngineInstalls\UE_4.22\Engine\Source\Developer/TargetPlatform/Public/Interfaces/IAudioFormat.h
 C:\UnrealEngineInstalls\UE_4.22\Engine\Source\Runtime\Engine\Public\VorbisAudioInfo.h
 C:\UnrealEngineInstalls\UE_4.22\Engine\Source\Runtime\Engine\Public\DDSLoader.h
-C:\Users\Mythical\Documents\GitHub\zedfest_modding_uproject_mythical\KevinSpel\Plugins\VictoryPlugin422\Intermediate\Build\Win64\UE4Editor\Inc\VictoryBPLibrary\VictoryBPFunctionLibrary.generated.h
+C:\Users\Mythical\Documents\Unreal Projects\KevinSpel\Plugins\VictoryPlugin422\Intermediate\Build\Win64\UE4Editor\Inc\VictoryBPLibrary\VictoryBPFunctionLibrary.generated.h
 C:\UnrealEngineInstalls\UE_4.22\Engine\Source\Runtime/ApplicationCore/Public/HAL/PlatformApplicationMisc.h
 C:\UnrealEngineInstalls\UE_4.22\Engine\Source\Runtime\ApplicationCore\Public\Windows/WindowsPlatformApplicationMisc.h
 C:\UnrealEngineInstalls\UE_4.22\Engine\Source\Runtime\ApplicationCore\Public\GenericPlatform/GenericPlatformApplicationMisc.h
@@ -1370,8 +1370,8 @@ C:\Program Files (x86)\Windows Kits\10\include\10.0.22621.0\ucrt\share.h
 C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\VC\Tools\MSVC\14.16.27023\INCLUDE\vector
 C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\VC\Tools\MSVC\14.16.27023\INCLUDE\string
 C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\VC\Tools\MSVC\14.16.27023\INCLUDE\xstring_insert.h
-C:\Users\Mythical\Documents\GitHub\zedfest_modding_uproject_mythical\KevinSpel\Plugins\VictoryPlugin422\Source\VictoryBPLibrary\Private\VictoryBPFunctionLibrary_WinOS.cpp
-c:\users\mythical\documents\github\zedfest_modding_uproject_mythical\kevinspel\plugins\victoryplugin422\source\victorybplibrary\private\VictoryBPLibraryPrivatePCH.h
+C:\Users\Mythical\Documents\Unreal Projects\KevinSpel\Plugins\VictoryPlugin422\Source\VictoryBPLibrary\Private\VictoryBPFunctionLibrary_WinOS.cpp
+c:\users\mythical\documents\unreal projects\kevinspel\plugins\victoryplugin422\source\victorybplibrary\private\VictoryBPLibraryPrivatePCH.h
 C:\UnrealEngineInstalls\UE_4.22\Engine\Source\Runtime/Core/Public/Windows/AllowWindowsPlatformTypes.h
 C:\UnrealEngineInstalls\UE_4.22\Engine\Source\Runtime\Core\Public\Windows/WindowsHWrapper.h
 C:\UnrealEngineInstalls\UE_4.22\Engine\Source\Runtime\Core\Public\Windows/PreWindowsApi.h
@@ -1474,17 +1474,17 @@ C:\Program Files (x86)\Windows Kits\10\include\10.0.22621.0\um\imm.h
 C:\Program Files (x86)\Windows Kits\10\include\10.0.22621.0\um\ime_cmodes.h
 C:\UnrealEngineInstalls\UE_4.22\Engine\Source\Runtime\Core\Public\Windows/PostWindowsApi.h
 C:\UnrealEngineInstalls\UE_4.22\Engine\Source\Runtime/Core/Public/Windows/HideWindowsPlatformTypes.h
-C:\Users\Mythical\Documents\GitHub\zedfest_modding_uproject_mythical\KevinSpel\Plugins\VictoryPlugin422\Source\VictoryBPLibrary\Private\VictoryBPHTML.cpp
-c:\users\mythical\documents\github\zedfest_modding_uproject_mythical\kevinspel\plugins\victoryplugin422\source\victorybplibrary\private\VictoryBPLibraryPrivatePCH.h
-C:\Users\Mythical\Documents\GitHub\zedfest_modding_uproject_mythical\KevinSpel\Plugins\VictoryPlugin422\Source\VictoryBPLibrary\Public\VictoryBPHTML.h
-C:\Users\Mythical\Documents\GitHub\zedfest_modding_uproject_mythical\KevinSpel\Plugins\VictoryPlugin422\Intermediate\Build\Win64\UE4Editor\Inc\VictoryBPLibrary\VictoryBPHTML.generated.h
-C:\Users\Mythical\Documents\GitHub\zedfest_modding_uproject_mythical\KevinSpel\Plugins\VictoryPlugin422\Source\VictoryBPLibrary\Private\VictoryBPLibrary.cpp
-c:\users\mythical\documents\github\zedfest_modding_uproject_mythical\kevinspel\plugins\victoryplugin422\source\victorybplibrary\private\VictoryBPLibraryPrivatePCH.h
-C:\Users\Mythical\Documents\GitHub\zedfest_modding_uproject_mythical\KevinSpel\Plugins\VictoryPlugin422\Source\VictoryBPLibrary\Public\VictoryISM.cpp
-C:\Users\Mythical\Documents\GitHub\zedfest_modding_uproject_mythical\KevinSpel\Plugins\VictoryPlugin422\Source\VictoryBPLibrary\Private\VictoryBPLibraryPrivatePCH.h
-C:\Users\Mythical\Documents\GitHub\zedfest_modding_uproject_mythical\KevinSpel\Plugins\VictoryPlugin422\Source\VictoryBPLibrary\Public\VictoryPC.cpp
-C:\Users\Mythical\Documents\GitHub\zedfest_modding_uproject_mythical\KevinSpel\Plugins\VictoryPlugin422\Source\VictoryBPLibrary\Private\VictoryBPLibraryPrivatePCH.h
-c:\users\mythical\documents\github\zedfest_modding_uproject_mythical\kevinspel\plugins\victoryplugin422\source\victorybplibrary\public\VictoryPC.h
+C:\Users\Mythical\Documents\Unreal Projects\KevinSpel\Plugins\VictoryPlugin422\Source\VictoryBPLibrary\Private\VictoryBPHTML.cpp
+c:\users\mythical\documents\unreal projects\kevinspel\plugins\victoryplugin422\source\victorybplibrary\private\VictoryBPLibraryPrivatePCH.h
+C:\Users\Mythical\Documents\Unreal Projects\KevinSpel\Plugins\VictoryPlugin422\Source\VictoryBPLibrary\Public\VictoryBPHTML.h
+C:\Users\Mythical\Documents\Unreal Projects\KevinSpel\Plugins\VictoryPlugin422\Intermediate\Build\Win64\UE4Editor\Inc\VictoryBPLibrary\VictoryBPHTML.generated.h
+C:\Users\Mythical\Documents\Unreal Projects\KevinSpel\Plugins\VictoryPlugin422\Source\VictoryBPLibrary\Private\VictoryBPLibrary.cpp
+c:\users\mythical\documents\unreal projects\kevinspel\plugins\victoryplugin422\source\victorybplibrary\private\VictoryBPLibraryPrivatePCH.h
+C:\Users\Mythical\Documents\Unreal Projects\KevinSpel\Plugins\VictoryPlugin422\Source\VictoryBPLibrary\Public\VictoryISM.cpp
+C:\Users\Mythical\Documents\Unreal Projects\KevinSpel\Plugins\VictoryPlugin422\Source\VictoryBPLibrary\Private\VictoryBPLibraryPrivatePCH.h
+C:\Users\Mythical\Documents\Unreal Projects\KevinSpel\Plugins\VictoryPlugin422\Source\VictoryBPLibrary\Public\VictoryPC.cpp
+C:\Users\Mythical\Documents\Unreal Projects\KevinSpel\Plugins\VictoryPlugin422\Source\VictoryBPLibrary\Private\VictoryBPLibraryPrivatePCH.h
+c:\users\mythical\documents\unreal projects\kevinspel\plugins\victoryplugin422\source\victorybplibrary\public\VictoryPC.h
 C:\UnrealEngineInstalls\UE_4.22\Engine\Source\Runtime\Online\HTTP\Public\Http.h
 c:\unrealengineinstalls\ue_4.22\engine\source\runtime\online\http\public\HttpModule.h
 c:\unrealengineinstalls\ue_4.22\engine\source\runtime\online\http\public\Interfaces/IHttpRequest.h
@@ -1493,8 +1493,8 @@ c:\unrealengineinstalls\ue_4.22\engine\source\runtime\online\http\public\Interfa
 c:\unrealengineinstalls\ue_4.22\engine\source\runtime\online\http\public\PlatformHttp.h
 c:\unrealengineinstalls\ue_4.22\engine\source\runtime\online\http\public\Windows/WindowsPlatformHttp.h
 c:\unrealengineinstalls\ue_4.22\engine\source\runtime\online\http\public\GenericPlatform/GenericPlatformHttp.h
-C:\Users\Mythical\Documents\GitHub\zedfest_modding_uproject_mythical\KevinSpel\Plugins\VictoryPlugin422\Intermediate\Build\Win64\UE4Editor\Inc\VictoryBPLibrary\VictoryPC.generated.h
-C:\Users\Mythical\Documents\GitHub\zedfest_modding_uproject_mythical\KevinSpel\Plugins\VictoryPlugin422\Source\VictoryBPLibrary\Public\VictoryTMapComp.cpp
-C:\Users\Mythical\Documents\GitHub\zedfest_modding_uproject_mythical\KevinSpel\Plugins\VictoryPlugin422\Source\VictoryBPLibrary\Private\VictoryBPLibraryPrivatePCH.h
-c:\users\mythical\documents\github\zedfest_modding_uproject_mythical\kevinspel\plugins\victoryplugin422\source\victorybplibrary\public\VictoryTMapComp.h
-C:\Users\Mythical\Documents\GitHub\zedfest_modding_uproject_mythical\KevinSpel\Plugins\VictoryPlugin422\Intermediate\Build\Win64\UE4Editor\Inc\VictoryBPLibrary\VictoryTMapComp.generated.h
+C:\Users\Mythical\Documents\Unreal Projects\KevinSpel\Plugins\VictoryPlugin422\Intermediate\Build\Win64\UE4Editor\Inc\VictoryBPLibrary\VictoryPC.generated.h
+C:\Users\Mythical\Documents\Unreal Projects\KevinSpel\Plugins\VictoryPlugin422\Source\VictoryBPLibrary\Public\VictoryTMapComp.cpp
+C:\Users\Mythical\Documents\Unreal Projects\KevinSpel\Plugins\VictoryPlugin422\Source\VictoryBPLibrary\Private\VictoryBPLibraryPrivatePCH.h
+c:\users\mythical\documents\unreal projects\kevinspel\plugins\victoryplugin422\source\victorybplibrary\public\VictoryTMapComp.h
+C:\Users\Mythical\Documents\Unreal Projects\KevinSpel\Plugins\VictoryPlugin422\Intermediate\Build\Win64\UE4Editor\Inc\VictoryBPLibrary\VictoryTMapComp.generated.h

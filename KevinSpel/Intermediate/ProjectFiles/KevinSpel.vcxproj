@@ -51,7 +51,7 @@
     </ProjectConfiguration>
   </ItemGroup>
   <PropertyGroup Label="Globals">
-    <ProjectGuid>{1E772670-60DA-4AF7-B276-C7BD0453A4CA}</ProjectGuid>
+    <ProjectGuid>{79A44F06-3AD9-4DF5-8505-077C4DF0452E}</ProjectGuid>
     <Keyword>MakeFileProj</Keyword>
     <RootNamespace>KevinSpel</RootNamespace>
     <PlatformToolset>v141</PlatformToolset>

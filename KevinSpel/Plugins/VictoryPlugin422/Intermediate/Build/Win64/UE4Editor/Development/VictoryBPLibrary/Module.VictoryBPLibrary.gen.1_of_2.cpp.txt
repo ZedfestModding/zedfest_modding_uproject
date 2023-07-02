@@ -1,8 +1,8 @@
-C:\Users\Mythical\Documents\GitHub\zedfest_modding_uproject_mythical\KevinSpel\Plugins\VictoryPlugin422\Intermediate\Build\Win64\UE4Editor\Development\VictoryBPLibrary\Definitions.VictoryBPLibrary.h
-C:\Users\Mythical\Documents\GitHub\zedfest_modding_uproject_mythical\KevinSpel\Plugins\VictoryPlugin422\Intermediate\Build\Win64\UE4Editor\Inc\VictoryBPLibrary\TKMathFunctionLibrary.gen.cpp
+C:\Users\Mythical\Documents\Unreal Projects\KevinSpel\Plugins\VictoryPlugin422\Intermediate\Build\Win64\UE4Editor\Development\VictoryBPLibrary\Definitions.VictoryBPLibrary.h
+C:\Users\Mythical\Documents\Unreal Projects\KevinSpel\Plugins\VictoryPlugin422\Intermediate\Build\Win64\UE4Editor\Inc\VictoryBPLibrary\TKMathFunctionLibrary.gen.cpp
 C:\UnrealEngineInstalls\UE_4.22\Engine\Source\Runtime\CoreUObject\Public\UObject/GeneratedCppIncludes.h
 C:\UnrealEngineInstalls\UE_4.22\Engine\Source\Runtime\CoreUObject\Public\UObject/MetaData.h
-C:\Users\Mythical\Documents\GitHub\zedfest_modding_uproject_mythical\KevinSpel\Plugins\VictoryPlugin422\Source\VictoryBPLibrary/Public/TKMathFunctionLibrary.h
+C:\Users\Mythical\Documents\Unreal Projects\KevinSpel\Plugins\VictoryPlugin422\Source\VictoryBPLibrary/Public/TKMathFunctionLibrary.h
 C:\UnrealEngineInstalls\UE_4.22\Engine\Source\Runtime/UMG/Public/UMG.h
 C:\UnrealEngineInstalls\UE_4.22\Engine\Source\Runtime\Core\Public\Misc/MonolithicHeaderBoilerplate.h
 C:\UnrealEngineInstalls\UE_4.22\Engine\Source\Runtime\Core\Public\Core.h
@@ -963,11 +963,11 @@ c:\unrealengineinstalls\ue_4.22\engine\source\runtime\umg\public\Animation/Movie
 C:\UnrealEngineInstalls\UE_4.22\Engine\Intermediate\Build\Win64\UE4Editor\Inc\UMG\MovieSceneMarginTrack.generated.h
 c:\unrealengineinstalls\ue_4.22\engine\source\runtime\umg\public\Animation/UMGSequencePlayer.h
 C:\UnrealEngineInstalls\UE_4.22\Engine\Intermediate\Build\Win64\UE4Editor\Inc\UMG\UMGSequencePlayer.generated.h
-c:\users\mythical\documents\github\zedfest_modding_uproject_mythical\kevinspel\plugins\victoryplugin422\intermediate\build\win64\ue4editor\inc\victorybplibrary\TKMathFunctionLibrary.generated.h
-C:\Users\Mythical\Documents\GitHub\zedfest_modding_uproject_mythical\KevinSpel\Plugins\VictoryPlugin422\Intermediate\Build\Win64\UE4Editor\Inc\VictoryBPLibrary\VictoryBPFunctionLibrary.gen.cpp
-C:\Users\Mythical\Documents\GitHub\zedfest_modding_uproject_mythical\KevinSpel\Plugins\VictoryPlugin422\Source\VictoryBPLibrary/Public/VictoryBPFunctionLibrary.h
-c:\users\mythical\documents\github\zedfest_modding_uproject_mythical\kevinspel\plugins\victoryplugin422\source\victorybplibrary\public\VictoryISM.h
-c:\users\mythical\documents\github\zedfest_modding_uproject_mythical\kevinspel\plugins\victoryplugin422\intermediate\build\win64\ue4editor\inc\victorybplibrary\VictoryISM.generated.h
+c:\users\mythical\documents\unreal projects\kevinspel\plugins\victoryplugin422\intermediate\build\win64\ue4editor\inc\victorybplibrary\TKMathFunctionLibrary.generated.h
+C:\Users\Mythical\Documents\Unreal Projects\KevinSpel\Plugins\VictoryPlugin422\Intermediate\Build\Win64\UE4Editor\Inc\VictoryBPLibrary\VictoryBPFunctionLibrary.gen.cpp
+C:\Users\Mythical\Documents\Unreal Projects\KevinSpel\Plugins\VictoryPlugin422\Source\VictoryBPLibrary/Public/VictoryBPFunctionLibrary.h
+c:\users\mythical\documents\unreal projects\kevinspel\plugins\victoryplugin422\source\victorybplibrary\public\VictoryISM.h
+c:\users\mythical\documents\unreal projects\kevinspel\plugins\victoryplugin422\intermediate\build\win64\ue4editor\inc\victorybplibrary\VictoryISM.generated.h
 C:\UnrealEngineInstalls\UE_4.22\Engine\Source\Runtime/UMG/Public/UMGStyle.h
 C:\UnrealEngineInstalls\UE_4.22\Engine\Source\Runtime\AIModule\Classes\AIController.h
 C:\UnrealEngineInstalls\UE_4.22\Engine\Source\Runtime\NavigationSystem\Public\NavFilters/NavigationQueryFilter.h
@@ -1019,4 +1019,4 @@ C:\UnrealEngineInstalls\UE_4.22\Engine\Source\Runtime\Engine\Public\ActiveSound.
 C:\UnrealEngineInstalls\UE_4.22\Engine\Source\Developer/TargetPlatform/Public/Interfaces/IAudioFormat.h
 C:\UnrealEngineInstalls\UE_4.22\Engine\Source\Runtime\Engine\Public\VorbisAudioInfo.h
 C:\UnrealEngineInstalls\UE_4.22\Engine\Source\Runtime\Engine\Public\DDSLoader.h
-c:\users\mythical\documents\github\zedfest_modding_uproject_mythical\kevinspel\plugins\victoryplugin422\intermediate\build\win64\ue4editor\inc\victorybplibrary\VictoryBPFunctionLibrary.generated.h
+c:\users\mythical\documents\unreal projects\kevinspel\plugins\victoryplugin422\intermediate\build\win64\ue4editor\inc\victorybplibrary\VictoryBPFunctionLibrary.generated.h
