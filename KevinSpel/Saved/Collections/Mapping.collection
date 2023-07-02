@@ -55,10 +55,10 @@ ParentGuid:00000000-0000-0000-0000-000000000000
 /Game/Mods/ModdingFramework_P/Blueprints/BP_ToggleCollision.BP_ToggleCollision
 /Game/Mods/ModdingFramework_P/Blueprints/BP_ToggleVisibility.BP_ToggleVisibility
 /Game/Mods/ModdingFramework_P/Blueprints/BP_WaveCounter.BP_WaveCounter
+/Game/Mods/ModdingFramework_P/Blueprints/MainMapActor/BP_MainMapActor.BP_MainMapActor
 /Game/Mods/ModdingFramework_P/Blueprints/Notes/BP_Note_General.BP_Note_General
 /Game/Mods/ModdingFramework_P/Blueprints/Notes/BP_Note_Keys.BP_Note_Keys
 /Game/Mods/ModdingFramework_P/Blueprints/SetPlayerMeshes.SetPlayerMeshes
-/Game/Mods/ModdingFramework_P/Blueprints/ZedfestPostProcess/BP_ZedfestPostProcess.BP_ZedfestPostProcess
 /Script/Engine.AmbientSound
 /Script/Engine.AtmosphericFog
 /Script/Engine.AudioVolume

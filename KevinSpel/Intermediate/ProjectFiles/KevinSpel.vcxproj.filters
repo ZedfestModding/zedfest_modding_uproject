@@ -3,7 +3,7 @@
   <ItemGroup>
     <None Include="..\..\KevinSpel.uproject" />
     <Filter Include="Source">
-      <UniqueIdentifier>{FE119679-5D77-4EBE-99AA-13AF038BC3DE}</UniqueIdentifier>
+      <UniqueIdentifier>{2C7E9AA5-E48B-4314-8CA6-2976F675C8FB}</UniqueIdentifier>
     </Filter>
     <None Include="..\..\Source\KevinSpel.Target.cs">
       <Filter>Source</Filter>
@@ -12,7 +12,7 @@
       <Filter>Source</Filter>
     </None>
     <Filter Include="Config">
-      <UniqueIdentifier>{DCDCB7DC-5934-4F36-AE96-28408810EB5F}</UniqueIdentifier>
+      <UniqueIdentifier>{C46DE792-1B80-44F4-91D9-18A36D2C40CE}</UniqueIdentifier>
     </Filter>
     <None Include="..\..\Config\DefaultEditor.ini">
       <Filter>Config</Filter>
@@ -24,7 +24,7 @@
       <Filter>Config</Filter>
     </None>
     <Filter Include="Source\KevinSpel">
-      <UniqueIdentifier>{1B066A0D-36A5-4496-B034-C10BBF57754C}</UniqueIdentifier>
+      <UniqueIdentifier>{314B7D9C-51C5-4AB4-8543-4E587BDB5160}</UniqueIdentifier>
     </Filter>
     <None Include="..\..\Source\KevinSpel\KevinSpel.Build.cs">
       <Filter>Source\KevinSpel</Filter>

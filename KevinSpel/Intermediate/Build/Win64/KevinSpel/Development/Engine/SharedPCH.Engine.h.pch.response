@@ -91,11 +91,11 @@
 /I "C:\Program Files (x86)\Windows Kits\10\include\10.0.22621.0\um"
 /I "C:\Program Files (x86)\Windows Kits\10\include\10.0.22621.0\winrt"
 /D_HAS_EXCEPTIONS=0
-/I C:\Users\Mythical\Documents\GitHub\zedfest_modding_uproject\KevinSpel\Intermediate\Build\Win64\KevinSpel\Development\Engine
-/Yc"C:\Users\Mythical\Documents\GitHub\zedfest_modding_uproject\KevinSpel\Intermediate\Build\Win64\KevinSpel\Development\Engine\SharedPCH.Engine.h"
-/Fp"C:\Users\Mythical\Documents\GitHub\zedfest_modding_uproject\KevinSpel\Intermediate\Build\Win64\KevinSpel\Development\Engine\SharedPCH.Engine.h.pch"
-"C:\Users\Mythical\Documents\GitHub\zedfest_modding_uproject\KevinSpel\Intermediate\Build\Win64\KevinSpel\Development\Engine\SharedPCH.Engine.cpp"
-/Fo"C:\Users\Mythical\Documents\GitHub\zedfest_modding_uproject\KevinSpel\Intermediate\Build\Win64\KevinSpel\Development\Engine\SharedPCH.Engine.h.obj"
+/I C:\Users\Mythical\Documents\GitHub\zedfest_modding_uproject_mythical\KevinSpel\Intermediate\Build\Win64\KevinSpel\Development\Engine
+/Yc"C:\Users\Mythical\Documents\GitHub\zedfest_modding_uproject_mythical\KevinSpel\Intermediate\Build\Win64\KevinSpel\Development\Engine\SharedPCH.Engine.h"
+/Fp"C:\Users\Mythical\Documents\GitHub\zedfest_modding_uproject_mythical\KevinSpel\Intermediate\Build\Win64\KevinSpel\Development\Engine\SharedPCH.Engine.h.pch"
+"C:\Users\Mythical\Documents\GitHub\zedfest_modding_uproject_mythical\KevinSpel\Intermediate\Build\Win64\KevinSpel\Development\Engine\SharedPCH.Engine.cpp"
+/Fo"C:\Users\Mythical\Documents\GitHub\zedfest_modding_uproject_mythical\KevinSpel\Intermediate\Build\Win64\KevinSpel\Development\Engine\SharedPCH.Engine.h.obj"
 /TP
 /GR-
 /W4

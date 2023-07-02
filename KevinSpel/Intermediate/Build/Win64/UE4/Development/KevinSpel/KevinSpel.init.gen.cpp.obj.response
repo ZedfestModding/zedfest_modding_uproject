@@ -26,9 +26,9 @@
 /wd4838
 /we4668
 /I .
-/I C:\Users\Mythical\Documents\GitHub\zedfest_modding_uproject\KevinSpel\Intermediate\Build\Win64\UE4\Inc\KevinSpel
-/I C:\Users\Mythical\Documents\GitHub\zedfest_modding_uproject\KevinSpel\Source
-/I C:\Users\Mythical\Documents\GitHub\zedfest_modding_uproject\KevinSpel\Source\KevinSpel
+/I C:\Users\Mythical\Documents\GitHub\zedfest_modding_uproject_mythical\KevinSpel\Intermediate\Build\Win64\UE4\Inc\KevinSpel
+/I C:\Users\Mythical\Documents\GitHub\zedfest_modding_uproject_mythical\KevinSpel\Source
+/I C:\Users\Mythical\Documents\GitHub\zedfest_modding_uproject_mythical\KevinSpel\Source\KevinSpel
 /I Runtime
 /I Runtime\Core\Public
 /I Runtime\Core
@@ -230,12 +230,12 @@
 /I "C:\Program Files (x86)\Windows Kits\10\include\10.0.22621.0\winrt"
 /D_HAS_EXCEPTIONS=0
 /D_HAS_EXCEPTIONS=0
-/FI"C:\Users\Mythical\Documents\GitHub\zedfest_modding_uproject\KevinSpel\Intermediate\Build\Win64\KevinSpel\Development\Engine\SharedPCH.Engine.h"
-/Yu"C:\Users\Mythical\Documents\GitHub\zedfest_modding_uproject\KevinSpel\Intermediate\Build\Win64\KevinSpel\Development\Engine\SharedPCH.Engine.h"
-/Fp"C:\Users\Mythical\Documents\GitHub\zedfest_modding_uproject\KevinSpel\Intermediate\Build\Win64\KevinSpel\Development\Engine\SharedPCH.Engine.h.pch"
-"C:\Users\Mythical\Documents\GitHub\zedfest_modding_uproject\KevinSpel\Intermediate\Build\Win64\UE4\Inc\KevinSpel\KevinSpel.init.gen.cpp"
-/FI"C:\Users\Mythical\Documents\GitHub\zedfest_modding_uproject\KevinSpel\Intermediate\Build\Win64\UE4\Development\KevinSpel\Definitions.KevinSpel.h"
-/Fo"C:\Users\Mythical\Documents\GitHub\zedfest_modding_uproject\KevinSpel\Intermediate\Build\Win64\UE4\Development\KevinSpel\KevinSpel.init.gen.cpp.obj"
+/FI"C:\Users\Mythical\Documents\GitHub\zedfest_modding_uproject_mythical\KevinSpel\Intermediate\Build\Win64\KevinSpel\Development\Engine\SharedPCH.Engine.h"
+/Yu"C:\Users\Mythical\Documents\GitHub\zedfest_modding_uproject_mythical\KevinSpel\Intermediate\Build\Win64\KevinSpel\Development\Engine\SharedPCH.Engine.h"
+/Fp"C:\Users\Mythical\Documents\GitHub\zedfest_modding_uproject_mythical\KevinSpel\Intermediate\Build\Win64\KevinSpel\Development\Engine\SharedPCH.Engine.h.pch"
+"C:\Users\Mythical\Documents\GitHub\zedfest_modding_uproject_mythical\KevinSpel\Intermediate\Build\Win64\UE4\Inc\KevinSpel\KevinSpel.init.gen.cpp"
+/FI"C:\Users\Mythical\Documents\GitHub\zedfest_modding_uproject_mythical\KevinSpel\Intermediate\Build\Win64\UE4\Development\KevinSpel\Definitions.KevinSpel.h"
+/Fo"C:\Users\Mythical\Documents\GitHub\zedfest_modding_uproject_mythical\KevinSpel\Intermediate\Build\Win64\UE4\Development\KevinSpel\KevinSpel.init.gen.cpp.obj"
 /TP
 /GR-
 /W4

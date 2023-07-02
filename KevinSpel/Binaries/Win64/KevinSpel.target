@@ -42,10 +42,6 @@
 			"Type": "UFS"
 		},
 		{
-			"Path": "$(EngineDir)/Plugins/Experimental/Gauntlet/Gauntlet.uplugin",
-			"Type": "UFS"
-		},
-		{
 			"Path": "$(ProjectDir)/Plugins/AutoSizeComments/AutoSizeComments.uplugin",
 			"Type": "UFS"
 		},

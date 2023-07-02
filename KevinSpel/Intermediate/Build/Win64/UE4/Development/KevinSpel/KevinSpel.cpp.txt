@@ -1,2 +1,2 @@
-C:\Users\Mythical\Documents\GitHub\zedfest_modding_uproject\KevinSpel\Intermediate\Build\Win64\UE4\Development\KevinSpel\Definitions.KevinSpel.h
-c:\users\mythical\documents\github\zedfest_modding_uproject\kevinspel\source\kevinspel\KevinSpel.h
+C:\Users\Mythical\Documents\GitHub\zedfest_modding_uproject_mythical\KevinSpel\Intermediate\Build\Win64\UE4\Development\KevinSpel\Definitions.KevinSpel.h
+c:\users\mythical\documents\github\zedfest_modding_uproject_mythical\kevinspel\source\kevinspel\KevinSpel.h
