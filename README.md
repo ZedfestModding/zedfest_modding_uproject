@@ -21,11 +21,11 @@
 
 1. Install [Zedfest](https://store.steampowered.com/app/1037080/Zedfest/)
 
-2. Install Unreal Engine 4.22
+2. Install [Unreal Engine 4.22](https://store.epicgames.com)
 
-3. Download the latest version of this Uproject
+3. Download the latest version of this [Uproject](https://github.com/Mythical-Github/zedfest_modding_uproject/archive/refs/heads/main.zip)
 
-4. Unzip the Uproject, you should be left with a zedfest_modding_uproject-main folder, with a KevinSpel folder inside of it
+4. [Unzip](https://www.7-zip.org/) the Uproject, you should be left with a zedfest_modding_uproject-main folder, with a KevinSpel folder inside of it
 
 5. Now you're fully installed. Run the Uproject file within the KevinSpel folder to open the Uproject
 
@@ -44,8 +44,8 @@
 
 <h2>💻 Built with</h2>
 
-*   Python 3
-*   Unreal Engine 4
+*   [Python 3](https://www.python.org/)
+*   [Unreal Engine 4](https://store.epicgames.com)
 
 <h2>🛡️ License:</h2>
 
