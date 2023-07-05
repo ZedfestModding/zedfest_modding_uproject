@@ -32,7 +32,13 @@
 5. Now you're fully installed. Run the Uproject file within the KevinSpel folder to open the Uproject
 
 <h2>🗺️ Creating A New Map:</h2>
+
+[![Video Title](https://img.youtube.com/vi/DtB6jzx8kbM/0.jpg)](https://youtu.be/DtB6jzx8kbM)
+
 <h2>🧐 Checking Map For Errors:</h2>
+
+[![Video Title](https://img.youtube.com/vi/Zz6iNlec4Ig/0.jpg)](https://youtu.be/Zz6iNlec4Ig)
+
 <h2>🧪 Testing Map In Game:</h2>
 <h2>📦 Packaging Mods For Release:</h2>
 <h2>📝 Notes:</h2>
