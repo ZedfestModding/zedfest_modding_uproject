@@ -33,11 +33,11 @@
 
 <h2>🗺️ Creating A New Map:</h2>
 
-[![Video Title](https://img.youtube.com/vi/DtB6jzx8kbM/0.jpg)](https://youtu.be/DtB6jzx8kbM)
+https://github.com/Mythical-Github/zedfest_modding_uproject/assets/67753356/c530ea60-0189-4aec-b775-d121af2fb4da
 
 <h2>🧐 Checking Map For Errors:</h2>
 
-[![Video Title](https://img.youtube.com/vi/Zz6iNlec4Ig/0.jpg)](https://youtu.be/Zz6iNlec4Ig)
+https://github.com/Mythical-Github/zedfest_modding_uproject/assets/67753356/d57f441a-c96e-4bd1-bce8-ad1757ec6fc0
 
 <h2>🧪 Testing Map In Game:</h2>
 
@@ -50,7 +50,15 @@
 
 <h2>📦 Packaging Mods For Release:</h2>
 
+
+
+<h2>📦 Packaging One Mod When You Have Many:</h2>
+
+https://github.com/Mythical-Github/zedfest_modding_uproject/assets/67753356/70314eaa-c3e7-4c38-9a5e-a865417ef6fe
+
 <h2>📝 Notes:</h2>
+
+*   There is a zedfest_modding_uproject [YouTube playlist](https://www.youtube.com/playlist?list=PLsbHITFlYqZeJO465XVTFJzGDGDez4uDZ) 
 
 <h2>💳 Credits:</h2>
 
