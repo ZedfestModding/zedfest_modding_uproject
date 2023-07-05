@@ -49,7 +49,7 @@ https://github.com/Mythical-Github/zedfest_modding_uproject/assets/67753356/5ccd
 
 <h2>📦 Packaging Mods For Release:</h2>
 
-
+https://github.com/Mythical-Github/zedfest_modding_uproject/assets/67753356/00b1d0bf-a19d-40c0-a530-5726321390c3
 
 <h2>📦 Packaging One Mod When You Have Many:</h2>
 
