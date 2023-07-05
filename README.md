@@ -40,6 +40,9 @@
 [![Video Title](https://img.youtube.com/vi/Zz6iNlec4Ig/0.jpg)](https://youtu.be/Zz6iNlec4Ig)
 
 <h2>🧪 Testing Map In Game:</h2>
+
+[![Video Title](https://img.youtube.com/vi/e8avAloMXLA/0.jpg)](https://youtu.be/e8avAloMXLA)
+
 <h2>📦 Packaging Mods For Release:</h2>
 <h2>📝 Notes:</h2>
 <h2>💳 Credits:</h2>
