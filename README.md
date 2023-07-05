@@ -1,11 +1,13 @@
 <h1 id="title" align="center">zedfest_modding_uproject</h1>
 
-  A Modding Uproject For [Zedfest](https://store.steampowered.com/app/1037080/Zedfest/), primarily for mapping
+<p align="center">
+  <img src="https://cdn.discordapp.com/attachments/1121513483532513441/1125983083146006549/EdSplash.png" alt="project-screenshot">
+</p>
 
-<h2>📈 Project Example:</h2>
+<p align="center">
+  A Modding Uproject For <a href="https://store.steampowered.com/app/1037080/Zedfest/">Zedfest</a>, primarily for mapping
+</p>
 
-<img src="https://cdn.discordapp.com/attachments/1121513483532513441/1125912100951293992/map_check.gif" alt="project-screenshot">
-  
 <h2>💪 Features:</h2>
 
 *   Map Templates
