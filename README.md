@@ -42,7 +42,7 @@
 *   Truman Splicing in Modloader
 *   Kein Editing Levels Struct To Be Useable
 *   DmgVol Collision Spline Wall Idea
-*   Pathfinder Uproject Loading Screen Image
+*   Pathfinder Zedfest SDK Uproject Image
 
 <h2>💻 Built with</h2>
 
