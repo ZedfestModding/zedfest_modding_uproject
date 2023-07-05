@@ -43,13 +43,15 @@
 
 [![Video Title](https://img.youtube.com/vi/e8avAloMXLA/0.jpg)](https://youtu.be/e8avAloMXLA)
 
-<h2>🧪 Setting Map Image, Description, and Level Name:</h2>
+<h2>✍️ Setting Map Image, Description, and Level Name:</h2>
 
 [![Video Title](https://img.youtube.com/vi/uRFpcDzFz2g/0.jpg)](https://youtu.be/uRFpcDzFz2g)
 
 
 <h2>📦 Packaging Mods For Release:</h2>
+
 <h2>📝 Notes:</h2>
+
 <h2>💳 Credits:</h2>
 
 *   Ramia for the [VictoryBP 4.22 Plugin](https://github.com/EverNewJoy/VictoryPlugin)
