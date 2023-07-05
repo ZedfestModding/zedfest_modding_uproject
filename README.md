@@ -41,12 +41,11 @@ https://github.com/Mythical-Github/zedfest_modding_uproject/assets/67753356/d57f
 
 <h2>🧪 Testing Map In Game:</h2>
 
-[![Video Title](https://img.youtube.com/vi/e8avAloMXLA/0.jpg)](https://youtu.be/e8avAloMXLA)
+https://github.com/Mythical-Github/zedfest_modding_uproject/assets/67753356/f0c24046-c9fd-4504-9907-0afa9e4692b1
 
 <h2>✍️ Setting Map Image, Description, and Level Name:</h2>
 
-[![Video Title](https://img.youtube.com/vi/uRFpcDzFz2g/0.jpg)](https://youtu.be/uRFpcDzFz2g)
-
+https://github.com/Mythical-Github/zedfest_modding_uproject/assets/67753356/5ccdf9a5-7935-4420-92d6-f6858efdbb4c
 
 <h2>📦 Packaging Mods For Release:</h2>
 
