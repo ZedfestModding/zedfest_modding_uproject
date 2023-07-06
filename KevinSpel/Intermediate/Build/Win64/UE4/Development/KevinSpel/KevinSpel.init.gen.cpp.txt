@@ -1,3 +1,0 @@
-C:\Users\Mythical\Documents\GitHub\zedfest_modding_uproject\KevinSpel\Intermediate\Build\Win64\UE4\Development\KevinSpel\Definitions.KevinSpel.h
-C:\UnrealEngineInstalls\UE_4.22\Engine\Source\Runtime\CoreUObject\Public\UObject/GeneratedCppIncludes.h
-C:\UnrealEngineInstalls\UE_4.22\Engine\Source\Runtime\CoreUObject\Public\UObject/MetaData.h
