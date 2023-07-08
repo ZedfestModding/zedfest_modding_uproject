@@ -66,6 +66,8 @@ https://github.com/Mythical-Github/zedfest_modding_uproject/assets/67753356/7031
 *   Kein Editing Levels Struct To Be Useable
 *   DmgVol Collision Spline Wall Idea
 *   Pathfinder Zedfest SDK Uproject Image
+*   [CoDtoUE](https://github.com/Mythical-Github/CoDtoUE4)
+*   [UnrealEnginePython](https://github.com/20tab/UnrealEnginePython)
 
 <h2>💻 Built With:</h2>
 
