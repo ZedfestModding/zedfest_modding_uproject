@@ -61,7 +61,7 @@ https://github.com/Mythical-Github/zedfest_modding_uproject/assets/67753356/7031
 
 <h2>💳 Credits:</h2>
 
-*   Ramia for the [VictoryBP 4.22 Plugin](https://github.com/EverNewJoy/VictoryPlugin)
+*   Ramia for the [VictoryBP Plugin](https://github.com/EverNewJoy/VictoryPlugin)
 *   Truman Splicing in Modloader
 *   Kein Editing Levels Struct To Be Useable
 *   DmgVol Collision Spline Wall Idea
