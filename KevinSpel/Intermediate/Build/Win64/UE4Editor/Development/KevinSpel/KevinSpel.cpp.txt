@@ -1,2 +1,0 @@
-C:\Users\Mythical\Documents\Unreal Projects\KevinSpel\Intermediate\Build\Win64\UE4Editor\Development\KevinSpel\Definitions.KevinSpel.h
-c:\users\mythical\documents\unreal projects\kevinspel\source\kevinspel\KevinSpel.h

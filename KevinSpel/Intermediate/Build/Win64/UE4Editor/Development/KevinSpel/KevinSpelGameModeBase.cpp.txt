@@ -1,7 +1,0 @@
-C:\Users\Mythical\Documents\Unreal Projects\KevinSpel\Intermediate\Build\Win64\UE4Editor\Development\KevinSpel\Definitions.KevinSpel.h
-c:\users\mythical\documents\unreal projects\kevinspel\source\kevinspel\KevinSpelGameModeBase.h
-C:\UnrealEngineInstalls\UE_4.22\Engine\Source\Runtime\Engine\Classes\GameFramework/GameModeBase.h
-C:\UnrealEngineInstalls\UE_4.22\Engine\Source\Runtime\Engine\Classes\Engine/ServerStatReplicator.h
-C:\UnrealEngineInstalls\UE_4.22\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\ServerStatReplicator.generated.h
-C:\UnrealEngineInstalls\UE_4.22\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\GameModeBase.generated.h
-C:\Users\Mythical\Documents\Unreal Projects\KevinSpel\Intermediate\Build\Win64\UE4Editor\Inc\KevinSpel\KevinSpelGameModeBase.generated.h
